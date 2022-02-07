@@ -1,0 +1,39 @@
+List>>> Properties
+(lis is variable/ you can replace it with whatevet you want)
+
+list.first
+list.last
+list.isEmpty
+list.isNotEmpty
+list.length
+list.reversed
+list.single
+
+Methods 
+
+list.add();
+list.addAll();
+lsit.insert();
+list.insertAl();
+list.replaceRange();
+list.remove();
+list.removeAt();
+list.removeLast();
+list.removeRange();
+
+
+Map >> Properties
+
+keys
+values
+length
+isEmpty
+isNotEmpty
+
+
+Map >> Methods>>
+
+addAll();
+clear();
+remove();
+forEach();
